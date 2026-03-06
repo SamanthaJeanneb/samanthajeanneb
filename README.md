@@ -1,24 +1,24 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/SamanthaJeanneb?label=Followers&style=flat-square)](https://github.com/SamanthaJeanneb?tab=followers)
+[![Public Repos](https://img.shields.io/badge/Repos-31-blue?style=flat-square)](https://github.com/SamanthaJeanneb?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=SamanthaJeanneb&style=flat-square)](https://github.com/SamanthaJeanneb)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Samantha Brown. I'm a Software Engineer at Sicura and Coach at Major League Hacking. I work on web services, demos, and hackathon projects with a focus on TypeScript, JavaScript, and modern web frameworks.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: NYC
+- 🎓 Education: State University of New York College at Oswego (Computer Science and Interaction Design)
+- 📅 Hacking Since: 2024
+- 🌐 Website: [samanthajeanneb.com](https://samanthajeanneb.com)
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 [LakerHacks](https://github.com/SamanthaJeanneb/LakerHacks) — Hackathon management and event platform built with modern web technologies. (Svelte)
+- 🛠️ [rennovate-pr-dashboard](https://github.com/SamanthaJeanneb/rennovate-pr-dashboard) — Dashboard for tracking and managing pull requests with Renovate bot. (TypeScript)
+- 🤖 [Auralis LetsHelp](https://github.com/SamanthaJeanneb/Auralis_LetsHelp_HH26) — Award-winning hands-free, voice-controlled tech support system (2nd Place Overall, 1st Place Gemini Track at HoyaHacks).
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: TypeScript, JavaScript, HTML, Svelte
+- 🔭 Focus: Web Development, Hackathon Projects, Developer Tools
+- ❤️ Interests: Tech Education, Open Source, Community Building
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
