@@ -6,7 +6,7 @@ Template:
 
 ## GitHub Stats
 ![Samantha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamanthaJeanneb&show_icons=true&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaJeanneb&layout=compact&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamanthaJeanneb&theme=default)
 ![GitHub Streak](https://streak-stats.demolab.com?user=SamanthaJeanneb&hide_border=true)
 
 ## About
