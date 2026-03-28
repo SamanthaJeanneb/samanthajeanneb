@@ -1,24 +1,25 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+Template:
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-35-blue?style=flat-square)](https://github.com/SamanthaJeanneb?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/SamanthaJeanneb?label=Followers&style=flat-square)](https://github.com/SamanthaJeanneb)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+Heyo, I'm Samantha J. Brown. I'm a Software Engineer at Sicura and a Coach at Major League Hacking. I build web products and hackathon projects with a focus on JavaScript/TypeScript, front-end UX, and rapid prototyping.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- Location: NYC
+- Company: Sicura
+- Website: https://samanthajeanneb.com
+- GitHub: https://github.com/SamanthaJeanneb
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- Portfolio-site - Personal portfolio site and frontend experiments. (TypeScript) - https://github.com/SamanthaJeanneb/Portfolio-site
+- LakerHacks - Hackathon project repo built with Svelte. (Svelte) - https://github.com/SamanthaJeanneb/LakerHacks
+- CV-hackathon - Hackathon project focused on fast iteration and shipping. (TypeScript) - https://github.com/SamanthaJeanneb/CV-hackathon
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- Languages: TypeScript, JavaScript, HTML, Svelte
+- Focus: Frontend engineering, hackathon builds, rapid product prototyping
+- Interests: Developer communities, coaching, practical AI tooling
+
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
