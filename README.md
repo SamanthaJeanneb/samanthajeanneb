@@ -1,6 +1,13 @@
 Template:
 [![Public Repos](https://img.shields.io/badge/Public%20Repos-35-blue?style=flat-square)](https://github.com/SamanthaJeanneb?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/SamanthaJeanneb?label=Followers&style=flat-square)](https://github.com/SamanthaJeanneb)
+[![Stars](https://img.shields.io/github/stars/SamanthaJeanneb?affiliations=OWNER&style=flat-square)](https://github.com/SamanthaJeanneb?tab=repositories)
+[![Last Commit](https://img.shields.io/github/last-commit/SamanthaJeanneb/samanthajeanneb?style=flat-square)](https://github.com/SamanthaJeanneb/samanthajeanneb/commits/main)
+
+## GitHub Stats
+![Samantha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamanthaJeanneb&show_icons=true&hide_border=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaJeanneb&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=SamanthaJeanneb&hide_border=true)
 
 ## About
 Heyo, I'm Samantha J. Brown. I'm a Software Engineer at Sicura and a Coach at Major League Hacking. I build web products and hackathon projects with a focus on JavaScript/TypeScript, front-end UX, and rapid prototyping.
