@@ -75,7 +75,7 @@
 
 ## Contribution Graph
 <p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ArshSSandhu/ArshSSandhu/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/samanthajeanneb/samanthajeanneb/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
