@@ -21,7 +21,7 @@
   <li><strong><a href="https://devpost.com/software/beatboxing">HopHacks (Johns Hopkins)</a></strong> — Third Place Overall • Awarded in Spacetime DB / Gaming Track</li>
   <li><strong><a href="https://devpost.com/software/echochambers">EchoChambers — Bolt.new AI Hackathon</a></strong></li>
   <li><strong><a href="https://devpost.com/software/auralis-12p087">LetsHelp — HoyaHacks (Georgetown University)</a></strong> — Second Place Overall • Winner, Gemini Track</li>
-  <li><strong>Suzanne — HackPrinceton (Princeton University)</strong></li>
+  <li><strong>Suzanne — ⭐ HackPrinceton (Princeton University)</strong></li>
 </ul>
 
 
