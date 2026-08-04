@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Samantha+Brown;Full+Stack+Developer+%7C+Interaction+Designer;Hackathon+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Samantha+Brown;Full+Stack+Developer+%7C+Interaction+Designer;Hackathon+Enthusiast)](https://git.io/typing-svg)
 <h3 align="center">Full Stack Developer | Interaction Designer | CS + HCI Enthusiast</h3>
 
 <div align="center">
@@ -54,8 +54,8 @@
 </div>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samanthajeanneb&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" />
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthajeanneb&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=samanthajeanneb&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" />
+  <img width="46%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=samanthajeanneb&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@
 
 ## Contribution Graph
 <p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ArshSSandhu/ArshSSandhu/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SamanthaJeanneb/SamanthaJeanneb/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
