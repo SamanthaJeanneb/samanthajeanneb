@@ -12,6 +12,17 @@
   <img src="https://komarev.com/ghpvc/?username=samanthajeanneb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+## Hackathon Highlights
+
+<ul>
+  <li><strong><a href="https://devpost.com/software/bear-escape">Bear Escape — Cornell</a></strong> — Winner, UI Design · Winner, Best Use of Gemini</li>
+  <li><strong><a href="https://devpost.com/software/airwaves-342g1j">AirWaves — Bitcamp (University of Maryland)</a></strong> — Winner, Best Gamify Hack</li>
+  <li><strong><a href="https://devpost.com/software/beatboxing">HopHacks — Johns Hopkins</a></strong> — Third Place Overall · SpacetimeDB / Gaming Track</li>
+  <li><strong><a href="https://devpost.com/software/echochambers">EchoChambers — Bolt.new AI Hackathon</a></strong></li>
+  <li><strong><a href="https://devpost.com/software/auralis-12p087">LetsHelp — HoyaHacks (Georgetown University)</a></strong> — Second Place Overall · Winner, Gemini Track</li>
+  <li><strong>Suzanne — HackPrinceton</strong></li>
+</ul>
+
 ---
 
 ## Stats
@@ -31,38 +42,13 @@
 
 ---
 
-## Hackathon Highlights
-
-* **[Bear Escape — Cornell](https://devpost.com/software/bear-escape)** — Winner, UI Design · Winner, Best Use of Gemini
-* **[AirWaves — Bitcamp](https://devpost.com/software/airwaves-342g1j)** — Winner, Best Gamify Hack
-* **[HopHacks — Johns Hopkins](https://devpost.com/software/beatboxing)** — Third Place Overall · SpacetimeDB / Gaming Track
-* **[EchoChambers — Bolt.new AI Hackathon](https://devpost.com/software/echochambers)**
-* **[LetsHelp — HoyaHacks](https://devpost.com/software/auralis-12p087)** — Second Place Overall · Winner, Gemini Track
-* **Suzanne — HackPrinceton**
-
----
-
 ## Selected Projects
 
-### [Suzanne](https://suzanne3d.com)
-
-AI 3D design platform for generating manufacturable models for hardware and product teams.
-
-### [Beardsley Map Application](https://github.com/SamanthaJeanneb/Beardsley-Map-Application)
-
-Interactive Leaflet.js map showcasing Beardsley A/E projects across New York State.
-
-### [Family Tree](https://github.com/SamanthaJeanneb/FamilyTree)
-
-Full-stack collaborative family tree application built with React, Spring Boot, and MySQL.
-
-### [Quotable](https://github.com/SamanthaJeanneb/Quotable)
-
-Social web app for sharing and curating quotes with a clean, design-focused interface.
-
-### [Portfolio](https://samanthajeanneb.com)
-
-Personal portfolio featuring interactive galleries and selected projects.
+* **[Suzanne](https://suzanne3d.com)** — AI 3D design platform for generating manufacturable models for hardware and product teams.
+* **[Beardsley Map Application](https://github.com/SamanthaJeanneb/Beardsley-Map-Application)** — Interactive Leaflet.js map showcasing Beardsley A/E projects across New York State.
+* **[Family Tree](https://github.com/SamanthaJeanneb/FamilyTree)** — Full-stack collaborative family tree application using React, Spring Boot, and MySQL.
+* **[Quotable](https://github.com/SamanthaJeanneb/Quotable)** — Social web app for sharing and curating quotes with a clean, design-focused UI.
+* **[Portfolio Site](https://samanthajeanneb.com)** — Personal portfolio featuring interactive galleries and projects.
 
 ---
 
