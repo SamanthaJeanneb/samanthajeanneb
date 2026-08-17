@@ -1,12 +1,18 @@
-# Samantha Brown
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=6A5ACD\&size=35\&center=true\&vCenter=true\&width=1000\&lines=Welcome+to+my+GitHub!;I'm+Samantha+Brown;Full+Stack+Developer+%7C+Interaction+Designer;Hackathon+Enthusiast)](https://git.io/typing-svg)
 
-**Full Stack Developer · Interaction Designer · CS + HCI**
+<h3 align="center">Full Stack Developer | Interaction Designer | CS + HCI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samanthajeanneb" target="_blank">LinkedIn</a> ·
-  <a href="mailto:samanthajeanneb@gmail.com">Email</a> ·
-  <a href="https://samanthajeanneb.com" target="_blank">Portfolio</a>
+  <a href="https://www.linkedin.com/in/samanthajeanneb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B66C3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:samanthajeanneb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://samanthajeanneb.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samanthajeanneb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
 
 ## Stats
 
@@ -23,6 +29,8 @@
   <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samanthajeanneb&theme=monokai" alt="Profile Summary" />
 </p>
 
+---
+
 ## Hackathon Highlights
 
 * **[Bear Escape — Cornell](https://devpost.com/software/bear-escape)** — Winner, UI Design · Winner, Best Use of Gemini
@@ -32,13 +40,31 @@
 * **[LetsHelp — HoyaHacks](https://devpost.com/software/auralis-12p087)** — Second Place Overall · Winner, Gemini Track
 * **Suzanne — HackPrinceton**
 
+---
+
 ## Selected Projects
 
-* **[Suzanne](https://suzanne3d.com)** — AI 3D design platform for generating manufacturable models for hardware and product teams.
-* **[Beardsley Map Application](https://github.com/SamanthaJeanneb/Beardsley-Map-Application)** — Interactive Leaflet.js map showcasing Beardsley A/E projects across New York State.
-* **[Family Tree](https://github.com/SamanthaJeanneb/FamilyTree)** — Full-stack collaborative family tree application built with React, Spring Boot, and MySQL.
-* **[Quotable](https://github.com/SamanthaJeanneb/Quotable)** — Social web app for sharing and curating quotes with a design-focused interface.
-* **[Portfolio](https://samanthajeanneb.com)** — Personal portfolio featuring interactive galleries and selected projects.
+### [Suzanne](https://suzanne3d.com)
+
+AI 3D design platform for generating manufacturable models for hardware and product teams.
+
+### [Beardsley Map Application](https://github.com/SamanthaJeanneb/Beardsley-Map-Application)
+
+Interactive Leaflet.js map showcasing Beardsley A/E projects across New York State.
+
+### [Family Tree](https://github.com/SamanthaJeanneb/FamilyTree)
+
+Full-stack collaborative family tree application built with React, Spring Boot, and MySQL.
+
+### [Quotable](https://github.com/SamanthaJeanneb/Quotable)
+
+Social web app for sharing and curating quotes with a clean, design-focused interface.
+
+### [Portfolio](https://samanthajeanneb.com)
+
+Personal portfolio featuring interactive galleries and selected projects.
+
+---
 
 ## Technologies
 
@@ -49,6 +75,8 @@
 **Backend:** Node.js · Express · Spring Boot · MySQL
 
 **Tools:** Git · Docker · Figma · Vercel · Netlify · Supabase
+
+---
 
 ## Contribution Graph
 
