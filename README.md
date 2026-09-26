@@ -1,24 +1,50 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/SamanthaJeanneb?label=Followers&style=flat-square)](https://github.com/SamanthaJeanneb)
+[![Public repositories](https://img.shields.io/badge/Public%20repositories-35-2ea44f?style=flat-square)](https://github.com/SamanthaJeanneb?tab=repositories)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+Hey, I'm Sam. I'm a Design Engineer at [Imagine AI](https://github.com/imagine-ai) and a Coach at [Major League Hacking](https://mlh.io/). I build thoughtful interfaces, AI-powered products, and fast-moving hackathon projects.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- Location: San Francisco
+- Previous: Software Engineer at Sicura; Founding Engineer at Suzanne
+- GitHub: [SamanthaJeanneb](https://github.com/SamanthaJeanneb)
+- Website: [samanthajeanneb.com](https://samanthajeanneb.com)
+
+## Major League Hacking
+- Coach at [Major League Hacking](https://mlh.io/), supporting student hackathons and helping hackers turn ideas into working projects.
+- Find upcoming hackathons and community events at [mlh.io/events](https://mlh.io/events).
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- [Portfolio-site](https://github.com/SamanthaJeanneb/Portfolio-site) - Personal portfolio site. (TypeScript)
+- [lockin](https://github.com/SamanthaJeanneb/lockin) - Capture anything in one field; the hierarchy shows whether your days are moving your years. (TypeScript)
+- [Atlas](https://github.com/SamanthaJeanneb/Atlas) - Conversational AI project built for a YC hackathon. (JavaScript)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- Languages: TypeScript, JavaScript, Svelte, HTML
+- Focus: Design engineering, conversational AI, product interfaces, and hackathons
+- Interests: Building useful tools, making complex ideas feel simple, and helping people ship
+
+## GitHub Activity
+<p align="center">
+	<a href="https://github.com/SamanthaJeanneb">
+		<img src="https://ghchart.rshah.org/SamanthaJeanneb" alt="Samantha Jeanneb's GitHub contribution history" width="95%" />
+	</a>
+</p>
+
+## Top Languages
+<p align="center">
+	<img src="https://img.shields.io/github/languages/top/SamanthaJeanneb/Portfolio-site?style=flat-square&label=Portfolio-site" alt="Portfolio-site top language" />
+	<img src="https://img.shields.io/github/languages/top/SamanthaJeanneb/lockin?style=flat-square&label=lockin" alt="lockin top language" />
+	<img src="https://img.shields.io/github/languages/top/SamanthaJeanneb/Atlas?style=flat-square&label=Atlas" alt="Atlas top language" />
+	<img src="https://img.shields.io/github/languages/top/SamanthaJeanneb/LakerHacks?style=flat-square&label=LakerHacks" alt="LakerHacks top language" />
+</p>
+
+## Badges
+<p align="center">
+	<img src="https://img.shields.io/github/followers/SamanthaJeanneb?label=Followers&style=flat-square" alt="GitHub followers" />
+	<img src="https://img.shields.io/github/commit-activity/y/SamanthaJeanneb/SamanthaJeanneb?label=Profile%20commits&style=flat-square" alt="Profile commit activity" />
+	<img src="https://img.shields.io/github/stars/SamanthaJeanneb?label=Stars&style=flat-square" alt="GitHub stars" />
+	<img src="https://img.shields.io/github/repositories/SamanthaJeanneb?label=Public%20repositories&style=flat-square" alt="Public repositories" />
+</p>
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
